@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-char *alxstr = "with proper grammar, but the outcome is the piece of art,";
+char *alxstr = "with proper grammar, but the outcome is a piece of art,";
 printf("%s\n", alxstr);
 return (0);
 }
